@@ -45,3 +45,20 @@ function pesquisar() {
     // Atribui os resultados gerados à seção HTML
     section.innerHTML = resultados;
 }
+function jogar() {
+    window.location.href = "https://reflect.microsoft.com/app/brainbreak/IO2MemoryGame";
+  }
+  const imagem = document.querySelector('.imagem-jogo');
+  const texto = document.querySelector('.texto-sobrepor');
+  
+  imagem.addEventListener('mouseover', () => {
+    texto.style.display = 'block';
+  });
+  
+  imagem.addEventListener('mouseout', () => {
+    texto.style.display = 'none';
+  });
+  
+  imagem.addEventListener('click', () => {
+    window.location.href = 'https://reflect.microsoft.com/app/brainbreak/IO2MemoryGame'; // Substitua pela URL do seu jogo
+  });

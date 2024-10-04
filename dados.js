@@ -3,13 +3,13 @@ let dados = [
         titulo: "Alegria",
         descricao: "A alegria é uma emoção básica e universal que se manifesta como uma sensação de prazer, felicidade e bem-estar. É uma resposta emocional positiva a eventos ou situações que consideramos agradáveis, satisfatórias ou significativas.",
         link: "https://youtu.be/LSpeM7G4zfY?si=w1unyBWkwmcGwNAs",
-        tags: "alegre feliz contente motivado"
+        tags: "alegre feliz contente motivado apaixonado animado"
     },
     {
         titulo: "Tristeza",
         descricao: "A tristeza é uma emoção básica e universal que todos nós experimentamos em algum momento da vida. É uma resposta emocional natural a eventos que percebemos como perdas, decepções ou frustrações.",
         link: "https://youtu.be/bZrgANDg4hA?si=RZ2r1v4ntRaKA1S_",
-        tags: "triste infeliz solitario dor desanimado"
+        tags: "triste infeliz solitario desanimado"
     },
      
          {
@@ -22,7 +22,7 @@ let dados = [
         titulo: "Medo",
         descricao: "O medo é uma emoção fundamental que todos experimentamos em algum momento da vida. É uma resposta natural a situações que percebemos como perigosas ou ameaçadoras, seja para nossa integridade física ou emocional.",
         link: "https://youtu.be/uboHnAhb63E?si=hCzHOvrdMTEv86Pk",
-        tags: "medroso apavorado "
+        tags: "medroso apavorado desesperado"
     },
      {
         titulo: "Raiva",
@@ -46,7 +46,7 @@ let dados = [
          titulo: "Tedio",
          descricao: "O tédio é uma emoção complexa que se manifesta como um sentimento de desinteresse, aborrecimento e vazio. É uma experiência subjetiva que surge quando não encontramos estímulos suficientes para engajar nossa mente e nos manter motivados.",
          link: "https://youtu.be/LfhyVL1Af-g?si=TmCLixJRIuumoFX4",
-         tags: "cansado preguiçoso preguiça "
+         tags: "cansado preguiçoso preguiça pensativo"
      },
      {
          titulo: "Vergonha",
